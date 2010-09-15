@@ -11,7 +11,7 @@
 	<groupId>de.devsurf.maven</groupId>
 	<artifactId>de.devsurf.maven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 
 	<name>de.devsurf.maven</name>
 	<url>http://maven.apache.org</url>
