@@ -87,7 +87,7 @@
 						<email>daniel.manzke@googlemail.com</email>
 					</properties>
 					<includes>
-						<include>**/*.java</include>
+						<include>**/de/devsurf/**/*.java</include>
 					</includes>
 				</configuration>
 				<executions>
