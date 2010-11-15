@@ -9,7 +9,7 @@
 
 	<groupId>de.devsurf.maven</groupId>
 	<artifactId>de.devsurf.maven</artifactId>
-	<version>1.4-SNAPSHOT</version>
+	<version>1.4</version>
 	<packaging>pom</packaging>
 
 	<name>de.devsurf.maven</name>
